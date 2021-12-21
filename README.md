@@ -1,7 +1,7 @@
-# Gaussian Elimination with partial pivoting
+# Gaussian Elimination
 
 ## AIM:
-To write a program to find the Gaussian Elimination with partial pivoting of a matrix.
+To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -27,5 +27,5 @@ RegisterNumber:
 
 
 ## Result:
-Thus the program to find the Gaussian Elimination with partial pivoting of a matrix is written and verified using python programming.
+Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
